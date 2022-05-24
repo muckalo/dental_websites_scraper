@@ -1,0 +1,9 @@
+*.iml
+.idea/
+venv/
+*__pycache__*
+*.log
+*01_info/
+*thread_logs/
+*.git/
+*docker_mnt/
